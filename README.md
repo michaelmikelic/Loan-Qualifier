@@ -25,16 +25,16 @@ This can be done from the anaconda terminal with the command
 ## Usage
 
 To run the Loan Qualifier app simply from the CLI enter ``` python app.py ```
-
+Once you establish your loan criteria, then from the data folder are the csv files.  The initial import of csv enter "data/daily_rate_sheet.csv" and then for the final export of data to the csv file enter "data/qualifying_loans.csv"
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+This application was created by Michael Mikelic
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+No license was selected at this time.  
 
