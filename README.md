@@ -1,11 +1,11 @@
 # Loan-Qualifier
-Module 2 Challenge Loan Qualifier is a python application that allowes users to sort though data on a spreadsheet to match with certain loan criteria as the user inputs.  The results are then exported to a final spreadsheet that the user can view.  
+Module 2 Challenge **Loan Qualifier** is a python application that allowes users to sort though data on a spreadsheet to match with certain loan criteria as the user inputs.  The results are then exported to a final spreadsheet that the user can view.  
 
 ---
 
 ## Technologies
 
-This application uses python along with fire, questionary, and csv spreadsheets.  
+This application uses python along with *fire, questionary, and csv spreadsheets.*  
 
 ---
 
@@ -15,6 +15,8 @@ You will need to first install python in order to use this alocation along with 
 
 After the install for python you will need to also install
 * fire
+This can be done from the anaconda terminal with the command
+``` pip install questionary ```
 * questionary
 This can be done from the anaconda terminal with the command 
 ``` pip install fire ```
@@ -22,7 +24,7 @@ This can be done from the anaconda terminal with the command
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+To run the Loan Qualifier app simply from the CLI enter ``` python app.py ```
 
 ---
 
