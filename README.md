@@ -1,22 +1,23 @@
 # Loan-Qualifier
-Module 2 Challenge Loan Qualifier 
-
-# Project Title
-
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+Module 2 Challenge Loan Qualifier is a python application that allowes users to sort though data on a spreadsheet to match with certain loan criteria as the user inputs.  The results are then exported to a final spreadsheet that the user can view.  
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This application uses python along with fire, questionary, and csv spreadsheets.  
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+You will need to first install python in order to use this alocation along with Alaconda.  Anaconda Python is used for data science, machine learning, deep learning and has more then 300 libraries for data computer science.  
 
+After the install for python you will need to also install
+* fire
+* questionary
+This can be done from the anaconda terminal with the command 
+``` pip install fire ```
 ---
 
 ## Usage
