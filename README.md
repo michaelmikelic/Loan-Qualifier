@@ -30,7 +30,7 @@ Once you establish your loan criteria, then from the data folder are the csv fil
 
 ## Contributors
 
-This application was created by Michael Mikelic
+This application was created by Michael Mikelic [Mikelic Github](https://github.com/michaelmikelic/Loan-Qualifier)
 
 ---
 
